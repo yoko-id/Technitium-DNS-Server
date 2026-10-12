@@ -1,6 +1,6 @@
 #  Embarcadero
-0.0.0.0 localhost
-0.0.0.0 www.embarcadero.com
+#0.0.0.0 localhost
+#0.0.0.0 www.embarcadero.com
 0.0.0.0 tempuri.org
 0.0.0.0 themindelectric.com
 0.0.0.0 www.themindelectric.com
