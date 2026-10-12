@@ -54,6 +54,9 @@
 0.0.0.0 ccleaner.piriform.com
 0.0.0.0 www.ccleaner.piriform.com
 0.0.0.0 license-api.ccleaner.com
+0.0.0.0 dc.ccleaner.com
+0.0.0.0 cdn-uat.ccleaner.com
+0.0.0.0 cdn-production.ccleaner.com
 #  Embarcadero
 #  Piriform CCleaner
 0.0.0.0 license.bluesoleil.com
